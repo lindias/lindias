@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-🤯 Web developer including spare time
+🤯 Web developer at Devz Design including spare time
 
 <br><br>
 
