@@ -22,8 +22,8 @@ Fullstack developer at Devz Design
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
-<a href="https://instagram.com/lindias1" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lindias1-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/lindiasm" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-lindiasm-05122A?style=for-the-badge&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
